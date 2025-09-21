@@ -1,0 +1,24 @@
+[submodule "MobileAppBackend"]
+	path = MobileAppBackend
+	url = git@github.com:JLTG-App/MobileAppBackend.git
+[submodule "ChatServer"]
+	path = ChatServer
+	url = git@github.com:JLTG-App/ChatServer.git
+[submodule "Authenticator"]
+	path = Authenticator
+	url = git@github.com:JLTG-App/Authenticator.git
+[submodule "OSMTileProxy"]
+	path = OSMTileProxy
+	url = git@github.com:JLTG-App/OSMTileProxy.git
+[submodule "ChatClientModule"]
+	path = ChatClientModule
+	url = git@github.com:JLTG-App/ChatClientModule.git
+[submodule "MobileApp"]
+	path = MobileApp
+	url = git@github.com:JLTG-App/MobileApp.git
+[submodule "ProjectWebsite"]
+	path = ProjectWebsite
+	url = git@github.com:JLTG-App/ProjectWebsite.git
+[submodule "Ansible"]
+	path = Ansible
+	url = git@github.com:JLTG-App/Ansible.git
